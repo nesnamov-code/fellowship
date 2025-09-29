@@ -1,0 +1,5 @@
+.react-container > img {
+    height: 350px;
+    border-radius: 30%;
+    margin-right: 20px;
+}
