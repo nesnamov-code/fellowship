@@ -27,7 +27,7 @@ function Feedback() {
             <MyButton text="👎" func={handleDislike} />
             <span>{disLike}</span>
             <div>
-            <MyButton text="Reset" func={handleReset} />
+            <MyButton text="Reset Results" func={handleReset} />
             </div>
         </div>
     );
